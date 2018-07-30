@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+
+    background-image: url(../../images/iStock_000007149442_Large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video {
+  display: flex;
+  padding-top: 5%;
+  align-items: center;
+  justify-content: center;
+}
+
+.otto {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.otto-photo {
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 50%;
+  align: center;
+}
